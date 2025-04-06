@@ -1,9 +1,8 @@
 # Graph Coloring Using Backtracking
 
- It solves the graph coloring problem using backtracking.
+ CASE_01
+![Alt Text](https://github.com/Jannat-358/Lab_report_03/blob/main/CASE_1.png?raw=true)
 
-## How to Run
 
-
-python graph_coloring.py
-
+CASE_02
+![Alt Text]
